@@ -71,6 +71,7 @@ public class Sec {
         int myint = (int) mydouble;
         System.out.println(mydouble);
         System.out.println(myint);
+        System.out.println("Git is interesting");
 
 
     }
