@@ -8,5 +8,8 @@ public class third {
         int b=56;
         int total= a+b;
         System.out.println("Total: "+total);
+        int product= a*b;
+        System.out.println("Product: "+product);
+
     }
 }
