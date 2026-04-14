@@ -10,6 +10,7 @@ public class third {
         System.out.println("Total: "+total);
         int product= a*b;
         System.out.println("Product: "+product);
+        // hi this is arup barik
 
     }
 }
